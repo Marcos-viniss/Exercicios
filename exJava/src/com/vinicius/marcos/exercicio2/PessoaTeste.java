@@ -5,7 +5,7 @@ public class PessoaTeste {
 
         Pessoa pessoa1 = new Pessoa();
 
-        pessoa1.setNome("Lucas Bocalini");
+        pessoa1.setNome("Marcos");
         pessoa1.setIdade(21);
 
         pessoa1.fazAniversario();
